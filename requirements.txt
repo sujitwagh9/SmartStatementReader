@@ -1,0 +1,12 @@
+pdf2image
+pytesseract
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+flask
+python-dotenv
+transformers
